@@ -1,4 +1,6 @@
-   Copyright 2012 [Justin Michael Weeks](http://www.justinweeks.info "Justin Weeks")
+# This is an old non-working project.
+
+   Copyright 2012 [Justin Weeks](http://jmweeks.com "Justin Weeks")
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
